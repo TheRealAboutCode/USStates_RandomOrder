@@ -14,4 +14,11 @@ PRE CONDITIONS
 
 POST CONDITION
 
-1. A random permutation of U.S. states is obtaied.
+1. A random permutation of U.S. states is obtained.
+
+HOW TO RUN
+
+1. Just do:
+$ python createRandomListOfStates.py
+
+
